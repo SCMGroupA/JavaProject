@@ -14,11 +14,4 @@ Every changes will automatically build in CircleCi and will bedeploy in Heroku e
 Make sure all of you have the account for the respective tools.
 
 
-
-<<<<<<< HEAD
 Enjoy exploring those tools guyzz !! :)
-testing
-=======
-
-Enjoy exploring those tools guyzz !! :)
->>>>>>> origin/master
