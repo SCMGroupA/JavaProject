@@ -11,7 +11,9 @@ Environment : Heroku
 
 our local repo is in Github. Any change please sync into the main repository to see the updated version of codes.
 Every changes will automatically build in CircleCi and will bedeploy in Heroku environment. 
-Make sure all of you have the account for the respective tools
+Make sure all of you have the account for the respective tools.
+
+
 
 <<<<<<< HEAD
 Enjoy exploring those tools guyzz !! :)
