@@ -1,0 +1,15 @@
+Hello. This is test only
+--- New Lesson Regarding SCM --
+
+This are the details :
+Project Name : Java Project -->sample project regarding RabbitMQ
+
+Repository :Github
+Build 	   : CircleCi
+Environment : Heroku
+
+
+our local repo is in Github. every changes will automatically build in CircleCi and will be
+deploy in Heroku environment
+
+Enjoy exploring those tools guyzz !! :)
