@@ -9,7 +9,8 @@ Build 	   : CircleCi
 Environment : Heroku
 
 
-our local repo is in Github. every changes will automatically build in CircleCi and will be
+our local repo is in Github. Any change please sync into the main repository every changes will automatically build in CircleCi and will be
 deploy in Heroku environment
+
 
 Enjoy exploring those tools guyzz !! :)
