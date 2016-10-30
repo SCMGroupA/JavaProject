@@ -6,7 +6,7 @@
     </encoder>
   </appender>
 
-  <root level="info">
+  <root level="information">
     <appender-ref ref="STDOUT" />
   </root>
 
